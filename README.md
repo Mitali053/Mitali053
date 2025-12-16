@@ -38,16 +38,6 @@ I love exploring **Cloud Computing, CI/CD, Automation, and Linux**.
 ---
 
 ## 📂 Projects / Repositories
-
-### 🔹 Linux Practice
-- Hands-on Linux commands and scripts  
-- Repository: [Linux Practice](https://github.com/Mitali053/test-b60)  
-
-### 🔹 Terraform Practice
-- Infrastructure as code examples  
-- Repository: [Terraform Practice](https://github.com/Mitali053/b60-tf)  
-
-### 🔹 Other Projects
 ### 🔹 Myntra Clone
 - Frontend + Backend e-commerce clone  
 - Repository: [Myntra Clone](https://github.com/Mitali053/Project-Myntra-Clone)  
