@@ -48,17 +48,17 @@ I love exploring **Cloud Computing, CI/CD, Automation, and Linux**.
 - Repository: [Terraform Practice](https://github.com/Mitali053/b60-tf)  
 
 ### 🔹 Other Projects
-## 🔹 Myntra Clone
+### 🔹 Myntra Clone
 - Frontend + Backend e-commerce clone  
 - Repository: [Myntra Clone](https://github.com/Mitali053/Project-Myntra-Clone)  
 - **Tech:** HTML | CSS | JavaScript | React | Node.js
 
-## 🔹 Netflix Clone
+### 🔹 Netflix Clone
 - Streaming platform clone  
 - Repository: [Netflix Clone](https://github.com/Mitali053/Netflix-Clone)  
 - **Tech:** HTML | CSS | JavaScript | React | Firebase
 
-## 🔹 ChatGPT Project
+### 🔹 ChatGPT Project
 - Simple ChatGPT integration project  
 - Repository: [ChatGPT](https://github.com/Mitali053/ChatGPT)  
 - **Tech:** Python | OpenAI API | Flask
