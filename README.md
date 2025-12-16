@@ -76,6 +76,3 @@ I love exploring **Cloud Computing, CI/CD, Automation, and Linux**.
 ![Mitali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mitali053&show_icons=true&theme=radical)
 
 ---
-
-## 💡 Fun Fact
-- I love learning new technologies, improving my skills every day, and working on small projects to apply my knowledge practically.
