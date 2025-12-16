@@ -29,7 +29,7 @@ I love exploring **Cloud Computing, CI/CD, Automation, and Linux**.
 
 ![Leadership](https://img.shields.io/badge/Leadership-FAD000?style=for-the-badge&logo=appveyor&logoColor=white)
 ![Team Collaboration](https://img.shields.io/badge/Team_Collaboration-00BFFF?style=for-the-badge&logo=slack&logoColor=white)
-![Problem Solving](https://img.shields.io/badge/ProblemS_olving-FF6347?style=for-the-badge&logo=leetcode&logoColor=white)
+![Problem Solving](https://img.shields.io/badge/Problem_Solving-FF6347?style=for-the-badge&logo=leetcode&logoColor=white)
 ![Communication](https://img.shields.io/badge/Communication-8A2BE2?style=for-the-badge&logo=microsoftoutlook&logoColor=white)
 
 
