@@ -20,8 +20,10 @@ I love exploring **Cloud Computing, CI/CD, Automation, and Linux**.
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Datadog](https://img.shields.io/badge/Datadog-2C73D2?style=for-the-badge&logo=datadog&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI/CD-007ACC?style=for-the-badge&logo=azuredevops&logoColor=white)
+
 
 ---
 
