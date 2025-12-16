@@ -11,9 +11,6 @@ I love exploring **Cloud Computing, CI/CD, Automation, and Linux**.
 - Always eager to learn and contribute to **open-source projects**
 
 ---
-
-## 🛠️ Skills
-
 ## 🛠️ Languages & Tools
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -31,8 +28,10 @@ I love exploring **Cloud Computing, CI/CD, Automation, and Linux**.
 ## 🌟 Soft Skills
 
 ![Leadership](https://img.shields.io/badge/Leadership-FAD000?style=for-the-badge&logo=appveyor&logoColor=white)
-![Team Collaboration](https://img.shields.io/badge/Team Collaboration-00BFFF?style=for-the-badge&logo=slack&logoColor=white)
-![Problem Solving](https://img.shields.io/badge/Problem Solving-FF6347?style=for-the-badge&logo=leetcode&logoColor=white)
+![Team Collaboration](https://img.shields.io/badge/Team_Collaboration-00BFFF?style=for-the-badge&logo=slack&logoColor=white)
+![Problem Solving](https://img.shields.io/badge/ProblemS_olving-FF6347?style=for-the-badge&logo=leetcode&logoColor=white)
+![Communication](https://img.shields.io/badge/Communication-8A2BE2?style=for-the-badge&logo=microsoftoutlook&logoColor=white)
+
 
 ---
 
@@ -53,8 +52,9 @@ I love exploring **Cloud Computing, CI/CD, Automation, and Linux**.
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: https://www.linkedin.com/in/mitali-kadam-aaa178364
-- Email: mitalikadam53@gmail.com  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/mitali-kadam-aaa178364/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mitalikadam53@example.com)
 
 ---
 
