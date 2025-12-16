@@ -1,4 +1,7 @@
-# 👋 Hi there, I’m Mitali Kadam!
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F7AB0A&width=700&lines=Hello+World+🌎;Welcome+to+my+profile+🙌;Happy+to+see+you+here+😊;Hi+there,+I'm+Mitali+Kadam!;I+am+a+DevOps+Enthusiast+🚀" alt="Typing SVG"/>
+</div>
+
 
 I'm a BCA graduate and a passionate DevOps & Linux enthusiast.  
 I love exploring **Cloud Computing, CI/CD, Automation, and Linux**.  
