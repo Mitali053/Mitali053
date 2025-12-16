@@ -8,6 +8,13 @@ I love exploring **Cloud Computing, CI/CD, Automation, and Linux**.
 
 ---
 
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/mitali-kadam-aaa178364/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mitalikadam53@example.com)
+
+---
+
 ## 🚀 About Me
 - Currently learning **DevOps, Linux, AWS, and Terraform**
 - Interested in **automation, cloud solutions, and infrastructure management**
@@ -55,13 +62,6 @@ I love exploring **Cloud Computing, CI/CD, Automation, and Linux**.
 - Simple ChatGPT integration project  
 - Repository: [ChatGPT](https://github.com/Mitali053/ChatGPT)  
 - **Tech:** Python | OpenAI API | Flask
-
----
-
-## 📫 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/mitali-kadam-aaa178364/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mitalikadam53@example.com)
 
 ---
 
