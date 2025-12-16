@@ -44,6 +44,10 @@ I love exploring **Cloud Computing, CI/CD, Automation, and Linux**.
 ![Problem Solving](https://img.shields.io/badge/Problem_Solving-FF6347?style=for-the-badge&logo=leetcode&logoColor=white)
 ![Communication](https://img.shields.io/badge/Communication-8A2BE2?style=for-the-badge&logo=microsoftoutlook&logoColor=white)
 
+---
+
+##🌱 Contribution Graph
+![Profile Views](https://komarev.com/ghpvc/?username=Mitali053&color=brightgreen)
 
 ---
 
