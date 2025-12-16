@@ -46,11 +46,6 @@ I love exploring **Cloud Computing, CI/CD, Automation, and Linux**.
 
 ---
 
-##🌱 Contribution Graph
-![Profile Views](https://komarev.com/ghpvc/?username=Mitali053&color=brightgreen)
-
----
-
 ## 📂 Projects / Repositories
 ### 🔹 Myntra Clone
 - Frontend + Backend e-commerce clone  
