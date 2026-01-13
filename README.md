@@ -22,17 +22,17 @@ I love exploring **Cloud Computing, CI/CD, Automation, and Linux**.
 
 ---
 ## 🛠️ Languages & Tools
-<p align="center">
-  <img src="https://img.shields.io/badge/Linux-222222?style=flat-square&logo=linux&logoColor=FCC624" />
-  <img src="https://img.shields.io/badge/Git-222222?style=flat-square&logo=git&logoColor=F05032" />
-  <img src="https://img.shields.io/badge/GitHub-222222?style=flat-square&logo=github&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/Docker-222222?style=flat-square&logo=docker&logoColor=2496ED" />
-  <img src="https://img.shields.io/badge/Jenkins-222222?style=flat-square&logo=jenkins&logoColor=D24939" />
-  <img src="https://img.shields.io/badge/Terraform-222222?style=flat-square&logo=terraform&logoColor=623CE4" />
-  <img src="https://img.shields.io/badge/AWS-222222?style=flat-square&logo=amazon-aws&logoColor=232F3E" />
-  <img src="https://img.shields.io/badge/Kubernetes-222222?style=flat-square&logo=kubernetes&logoColor=326CE5" />
-</p>
 
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Datadog](https://img.shields.io/badge/Datadog-2C73D2?style=for-the-badge&logo=datadog&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-007ACC?style=for-the-badge&logo=azuredevops&logoColor=white)
 
 ---
 
