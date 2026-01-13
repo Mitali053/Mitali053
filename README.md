@@ -65,6 +65,6 @@ I love exploring **Cloud Computing, CI/CD, Automation, and Linux**.
 ---
 
 ## 📈 GitHub Stats
-![Mitali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mitali053&show_icons=true&theme=radical)
+![Mitali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mitali053&showicons=true&theme=radical)
 
 ---
