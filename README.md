@@ -31,10 +31,10 @@ I love exploring **Cloud Computing, CI/CD, Automation, and Linux**.
 
 ## 🌟 Soft Skills
 
-| Leadership | Team Collaboration | Problem Solving | Communication | Time Management | Adaptability |
-|-----------|-------------------|----------------|---------------|-----------------|--------------|
-| <img src="https://img.icons8.com/fluency/48/leadership.png"/> | <img src="https://img.icons8.com/fluency/48/teamwork.png"/> | <img src="https://img.icons8.com/fluency/48/idea.png"/> | <img src="https://img.icons8.com/fluency/48/communication.png"/> | <img src="https://img.icons8.com/fluency/48/time-management.png"/> | <img src="https://img.icons8.com/fluency/48/change.png"/> |
-
+![Leadership](https://img.shields.io/badge/Leadership-FAD000?style=for-the-badge&logo=appveyor&logoColor=white)
+![Team Collaboration](https://img.shields.io/badge/Team_Collaboration-00BFFF?style=for-the-badge&logo=slack&logoColor=white)
+![Problem Solving](https://img.shields.io/badge/Problem_Solving-FF6347?style=for-the-badge&logo=leetcode&logoColor=white)
+![Communication](https://img.shields.io/badge/Communication-8A2BE2?style=for-the-badge&logo=microsoftoutlook&logoColor=white)
 
 ---
 
