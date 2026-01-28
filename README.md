@@ -23,12 +23,9 @@ I love exploring **Cloud Computing, CI/CD, Automation, and Linux**.
 ---
 ## 🛠️ Languages & Tools
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,git,github,docker,jenkins,terraform,aws,kubernetes" />
-  <br/>
-  <img src="https://img.icons8.com/color/48/datadog.png"/>
-  <img src="https://img.icons8.com/color/48/infinity.png"/>
-</p>
+| Linux | Terraform | Jenkins | Kubernetes | Ansible | Ubuntu | Git | Docker | GitHub | VS Code | AWS |
+|------|-----------|---------|------------|---------|--------|-----|--------|--------|---------|-----|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="40"/> |
 
 ---
 
