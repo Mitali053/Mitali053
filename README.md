@@ -24,16 +24,10 @@ I love exploring **Cloud Computing, CI/CD, Automation, and Linux**.
 ## 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Datadog-2C73D2?style=for-the-badge&logo=datadog&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CI/CD-007ACC?style=for-the-badge&logo=azuredevops&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=linux,git,github,docker,jenkins,terraform,aws,kubernetes" />
+  <br/>
+  <img src="https://img.icons8.com/color/48/datadog.png"/>
+  <img src="https://img.icons8.com/color/48/infinity.png"/>
 </p>
 
 ---
