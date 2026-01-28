@@ -27,14 +27,6 @@ I love exploring **Cloud Computing, CI/CD, Automation, and Linux**.
 |------|-----------|---------|------------|---------|--------|-----|--------|--------|---------|-----|
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="40"/> |
 
----
-
-## 🌟 Soft Skills
-
-![Leadership](https://img.shields.io/badge/Leadership-FAD000?style=for-the-badge&logo=appveyor&logoColor=white)
-![Team Collaboration](https://img.shields.io/badge/Team_Collaboration-00BFFF?style=for-the-badge&logo=slack&logoColor=white)
-![Problem Solving](https://img.shields.io/badge/Problem_Solving-FF6347?style=for-the-badge&logo=leetcode&logoColor=white)
-![Communication](https://img.shields.io/badge/Communication-8A2BE2?style=for-the-badge&logo=microsoftoutlook&logoColor=white)
 
 ---
 
