@@ -38,6 +38,13 @@ I love exploring **Cloud Computing, CI/CD, Automation, and Linux**.
 
 ---
 
+## 🌱 Contribution Graph
+
+![GitHub Contribution Snake](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg)
+
+
+---
+
 ## 📂 Projects / Repositories
 ### 🔹 Myntra Clone
 - Frontend + Backend e-commerce clone  
@@ -54,16 +61,9 @@ I love exploring **Cloud Computing, CI/CD, Automation, and Linux**.
 - Repository: [ChatGPT](https://github.com/Mitali053/ChatGPT)  
 - **Tech:** Python | OpenAI API | Flask
 
----
-
-## 🌱 Contribution Graph
-
-![GitHub Contribution Snake](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg)
-
----
+--- 
 
 ## 📈 GitHub Stats
 ![Mitali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mitali053&show_icons=true&theme=radical&cache_seconds=86400)
-
 
 ---
